@@ -1,5 +1,5 @@
 var typed = new Typed(".typing",{
-    strings:["","Software Engineer", "Flutter Develpoer", "SoftWare Testing", "....."],
+    strings:["","Software Engineer", "Flutter Developer", "SoftWare Testing", "Data scientist", "....."],
     typeSpeed:100,
     BackSpeed:60,
     loop:true
